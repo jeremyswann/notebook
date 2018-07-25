@@ -3,20 +3,18 @@ A **very** basic command line notebook app
 **Created with :heart: in ⬢[Node.js][] by [Jeremy Swanborough][]**
 
 ## Requirements:
-* Git
-* ⬢[Node.js][]
-* OPTIONAL: :cat2:[Yarn][]
+* ⎇ [Git][]
+* ⬢ [Node.js][]
+* ⬤_[Yarn][]
 
 ## Installation:
-1. Clone the repo and open the notebook dir
+1. Clone the repo using `git` and open the notebook `dir`
 ```console
 λ git clone https://github.com/jeremyswann/notebook.git notebook
 λ cd notebook
 ```
-2. Install the app using npm or yarn
+2. Install the app using `yarn`
 ```console
-λ npm i
-λ ### or
 λ yarn install
 ```
 
@@ -42,4 +40,5 @@ Have fun! :tada:
 
 [Node.js]: https://nodejs.org/en/
 [Yarn]: https://yarnpkg.com
+[Git]: https://help.github.com/articles/set-up-git/
 [Jeremy Swanborough]: https://github.com/jeremyswann
