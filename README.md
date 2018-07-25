@@ -15,9 +15,7 @@ A **very** basic command line notebook app
 2. Install the app using npm or yarn
 ```console
 λ npm i
-```
-or
-```console
+λ ### or
 λ yarn install
 ```
 
