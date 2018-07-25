@@ -24,6 +24,17 @@ Run `--help` to get a list of possible commands
 
 ```console
 λ node app --help
+app [command]
+
+Commands:
+  app add     Add a new note
+  app list    List all notes
+  app read    Read a note
+  app remove  Remove a note
+
+Options:
+  --version  Show version number                                       [boolean]
+  --help     Show help
 ```
 
 Have fun! :tada:
