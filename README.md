@@ -10,11 +10,15 @@ A **very** basic command line notebook app
 1. Clone the repo and open the notebook dir
 ```console
 λ git clone https://github.com/jeremyswann/notebook.git notebook
-cd notebook
+λ cd notebook
 ```
 2. Install the app using npm or yarn
 ```console
 λ npm i
+```
+or
+```console
+λ yarn install
 ```
 
 ## How to use:
