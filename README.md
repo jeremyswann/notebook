@@ -1,6 +1,6 @@
 # Notebook App :notebook:
 A **very** basic command line notebook app
-**Created with :heart: in ![#c5f015](⬢) [Node.js][] by [Jeremy Swanborough][]**
+**Created with :heart: in ⬢[Node.js][] by [Jeremy Swanborough][]**
 
 ## Requirements:
 * Git
