@@ -4,7 +4,7 @@ A **very** basic command line notebook app
 
 ## Requirements:
 * [⎇ Git][]
-* [ ⬢ Node.js][]
+* [&nbsp;⬢ Node.js][]
 * [⬤_Yarn][]
 
 ## Installation:
@@ -38,7 +38,7 @@ Options:
 
 Have fun! :tada:
 
-[ ⬢ Node.js]: https://nodejs.org/en/
+[&nbsp;⬢ Node.js]: https://nodejs.org/en/
 [⬤_Yarn]: https://yarnpkg.com
 [⎇ Git]: https://help.github.com/articles/set-up-git/
 [Jeremy Swanborough]: https://github.com/jeremyswann
