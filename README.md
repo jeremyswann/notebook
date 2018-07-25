@@ -7,12 +7,12 @@ A **very** basic command line notebook app
 * [Node.js][]
 
 ## Installation:
-* 1. Clone the repo and open the notebook dir
+1. Clone the repo and open the notebook dir
 ```console
 λ git clone https://github.com/jeremyswann/notebook.git notebook
 cd notebook
 ```
-* 2. Install the app using npm or yarn
+2. Install the app using npm or yarn
 ```console
 λ npm i
 ```
