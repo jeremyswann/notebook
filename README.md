@@ -4,7 +4,7 @@ A **very** basic command line notebook app
 
 ## Requirements:
 * [⎇ Git][]
-* [⬢ Node.js][]
+* [ ⬢ Node.js][]
 * [⬤_Yarn][]
 
 ## Installation:
