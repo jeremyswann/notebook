@@ -3,9 +3,9 @@ A **very** basic command line notebook app
 **Created with :heart: in ⬢[Node.js][] by [Jeremy Swanborough][]**
 
 ## Requirements:
-* ⎇ [Git][]
-* ⬢ [Node.js][]
-* ⬤_[Yarn][]
+* [⎇ Git][]
+* [⬢ Node.js][]
+* [⬤_Yarn][]
 
 ## Installation:
 1. Clone the repo using `git` and open the notebook `dir`
@@ -38,7 +38,7 @@ Options:
 
 Have fun! :tada:
 
-[Node.js]: https://nodejs.org/en/
-[Yarn]: https://yarnpkg.com
-[Git]: https://help.github.com/articles/set-up-git/
+[⬢ Node.js]: https://nodejs.org/en/
+[⬤_Yarn]: https://yarnpkg.com
+[⎇ Git]: https://help.github.com/articles/set-up-git/
 [Jeremy Swanborough]: https://github.com/jeremyswann
