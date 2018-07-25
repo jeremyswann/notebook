@@ -33,7 +33,7 @@ Commands:
   app remove  Remove a note
 
 Options:
-  --version  Show version number                                       [boolean]
+  --version  Show version number
   --help     Show help
 ```
 
