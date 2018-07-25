@@ -38,7 +38,7 @@ Options:
 
 Have fun! :tada:
 
-[⬢ Node.js]: https://nodejs.org/en/
+[ ⬢ Node.js]: https://nodejs.org/en/
 [⬤_Yarn]: https://yarnpkg.com
 [⎇ Git]: https://help.github.com/articles/set-up-git/
 [Jeremy Swanborough]: https://github.com/jeremyswann
